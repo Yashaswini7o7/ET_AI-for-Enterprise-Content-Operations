@@ -7,7 +7,7 @@ app = FastAPI()
 
 @app.get("/")
 def home():
-    return {"message": "AI Content Ops Running"}
+    return {"message": "AI Content Ops Running (Offline Mode)"}
 
 @app.post("/process")
 def process(topic: str):
