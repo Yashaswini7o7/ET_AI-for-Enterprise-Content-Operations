@@ -1,9 +1,9 @@
-# AI Content Ops (Offline Version)
+# AI for Enterprise Content Operations
 
 ## Features
-- Content generation (mock AI)
+- Content generation
 - Compliance checking
-- Translation (mock)
+- Translation
 - Streamlit UI
 
 ---
