@@ -3,7 +3,7 @@ import requests
 
 st.set_page_config(page_title="AI Content Ops", layout="wide")
 
-st.title("🧠 AI Content Operations")
+st.title("🧠 AI Content Operations (Offline Demo)")
 
 topic = st.text_input("Enter topic")
 
